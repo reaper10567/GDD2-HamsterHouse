@@ -46,9 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Inventory.cs" />
      <Compile Include="Assets\Scripts\Transparency.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/Stephanie/Desktop/BlockOut_D1/BlockOut/BlockOut/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/Stephanie/Desktop/PROJECT/GDD2-SUPA-HAMSTA/BlockOut_D1/BlockOut/BlockOut/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
