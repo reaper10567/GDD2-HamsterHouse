@@ -287,7 +287,7 @@ function DidJump ()
 }
 
 function Update() {
-	
+	print(_characterState);
 	if (!isControllable)
 	{
 		// kill all inputs if not controllable.

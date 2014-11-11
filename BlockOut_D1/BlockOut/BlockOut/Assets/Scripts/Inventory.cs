@@ -9,7 +9,7 @@ public class Inventory : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		theInventory = new List<GameObject>();
-		character = GameObject.Find("3rd Person Controller").transform;
+		character = GameObject.FindGameObjectWithTag("Player").transform;
 		allItemsInScene = GameObject.FindGameObjectsWithTag("Item");
 	}
 	
